@@ -17,7 +17,7 @@ Build an pose estimation powered feedback tool that detects common mistakes in e
 - **Feedback System:** Visual and text-based suggestions
 - **Visualization:** Annotated video frames and summary graphics
 
-## 📸 Example Output (coming soon)
+## Example Output (coming soon)
 
 ![sample](media/sample_feedback.gif)
 
